@@ -1,0 +1,3 @@
+StepDefinitions\NavigateGoogle.class
+TestRunner\MyTestRunner.class
+TestRunner\ParallelRun.class
