@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"6591f188-e680-476b-abe7-aceef1f2b5a3","feature":"Title of your feature","scenario":"Verify Google URL Navigatoin","start":1664532026320,"group":17,"content":"","tags":"@google,","end":1664532034199,"className":"passed"},{"id":"7dcbe44f-046b-4b81-b627-41d975555023","feature":"Title of your feature","scenario":"Verify Google URL Navigatoin","start":1664532026319,"group":18,"content":"","tags":"@google,","end":1664532034245,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":17,"content":"Thread[TestNG-PoolService-0,5,main]"},{"id":18,"content":"Thread[TestNG-PoolService-1,5,main]"}]);
+});
